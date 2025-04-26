@@ -1,1 +1,1 @@
-nx lint-staged --relative
+npx lint-staged --relative
