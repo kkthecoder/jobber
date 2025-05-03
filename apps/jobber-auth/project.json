@@ -45,7 +45,7 @@
       "command": "prisma generate",
       "options": {
         "cwd": "{projectRoot}",
-        "input": "prisma/schema.prisma"
+        "input": ["prisma/schema.prisma"]
       },
       "cache": true
     },

@@ -43,8 +43,8 @@
   "targetDefaults": {
     "build": {
       "inputs": [
-        "{projectRoot/**/*}",
-        "{workspaceRoot}/lib/**/*",
+        "{projectRoot}/**/*",
+        "{workspaceRoot}/libs/**/*",
         "{workspaceRoot}/proto/*.proto"
       ],
       "options": {
