@@ -1,4 +1,4 @@
-import { serialize } from '@jobber/nestjs';
+import { serialize } from '@jobber/graphql';
 import { PulsarClient } from '@jobber/pulsar';
 import { Producer } from 'pulsar-client';
 import { plainToInstance } from 'class-transformer';
