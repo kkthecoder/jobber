@@ -38,13 +38,5 @@
         "targetName": "test"
       }
     }
-  ],
-  "tasksRunnerOptions": {
-    "default": {
-      "runner": "@nx/workspace/tasks-runners/default",
-      "options": {
-        "cacheableOperations": ["build", "lint", "test"]
-      }
-    }
-  }
+  ]
 }
